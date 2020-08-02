@@ -1,14 +1,14 @@
 
-# Hi there! 👋 I'm [Shawn](https://shawndsilva.com)
+# Hi there! 👋 I'm Shawn
 
 I'm a Full Stack Web Developer, Designer and embedded systems enthusiast
 
 - 🔭 I’m currently working on [Laravel React Chat App](https://github.com/shawn-dsilva/laravel-react-realtime-chat)
 - 🌱 I’m currently learning Laravel, PHP and Postgres
 - 📫 How to reach me: my e-mail 
+- 💡  You can find out more about me, my projects and blog posts on my [Website](https://shawndsilva.com)
 
-
-## 💻 Languages and Tools:
+## 💻 Languages and Technologies:
 
 <img align="left" alt="ReactJS" width="45px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="45px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" />
