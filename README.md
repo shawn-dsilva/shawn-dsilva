@@ -30,9 +30,9 @@ I'm a Full Stack Web Developer, Designer and embedded systems enthusiast
 
 I host my projects in Docker containers behind an NGINX reverse proxy on AWS, No Heroku involved 😜
 
-- [PHP MVC Framework](https://shawndsilva.com/projects/boomer-php-mvc.html)
+- [PHP MVC Framework & Demo Web App](https://shawndsilva.com/projects/boomer-php-mvc.html)
 - [ListWala ToDo List & Project Management App](https://shawndsilva.com/projects/list-wala.html)
-- [MERN Login Registration Component](https://shawndsilva.com/projects/mern-login-registration-app.html)
+- [MERN Login Registration Component & Demo Web App](https://shawndsilva.com/projects/mern-login-registration-app.html)
 
 ## 📕 Latest Blog Posts
 
