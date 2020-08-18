@@ -4,7 +4,7 @@
 I'm a Full Stack Web Developer, Designer and embedded systems enthusiast
 
 - ⚙️ I’m currently working on [**Laravel React Chat App**](https://github.com/shawn-dsilva/laravel-react-realtime-chat)
-- 🍎 I’m currently learning **Laravel, PHP and Postgres**
+- 🍎 I’m currently learning **Laravel, PHP and PostgreSQL**
 - 📧 How to reach me: my **E-Mail**
 - 💡  You can find out more about me, my projects and blog posts on my [**Website**](https://shawndsilva.com)
 - 💼  My [**LinkedIn Profile**]( https://www.linkedin.com/in/shawn-dsilva/ )
