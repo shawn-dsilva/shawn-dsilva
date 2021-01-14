@@ -11,11 +11,11 @@ I'm a Full Stack Web Developer, Designer and embedded systems enthusiast
 
 ## 💻 Languages and Technologies:
 
-<img align="left" alt="ReactJS" width="45px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="45px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" />
-<img align="left" alt="MongoDB" width="45px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="ReactJS" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
+<img align="left" alt="MongoDB" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
 
-<img align="left" alt="Laravel" width="45px" src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" /> 
+<img align="left" alt="Laravel" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" /> 
 
 <img align="left" alt="JavaScript" width="45px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" /> 
 <img align="left" alt="PHP" width="45px" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-plain.svg" />
