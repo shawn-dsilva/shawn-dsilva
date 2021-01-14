@@ -17,12 +17,12 @@ I'm a Full Stack Web Developer, Designer and embedded systems enthusiast
 
 <img align="left" alt="Laravel" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" /> 
 
-<img align="left" alt="JavaScript" width="45px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" /> 
-<img align="left" alt="PHP" width="45px" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-plain.svg" />
-<img align="left" alt="Postgres" width="45px" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="Docker" width="45px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" />
+<img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> 
+<img align="left" alt="PHP" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
+<img align="left" alt="Postgres" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" alt="Docker" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="NGINX" width="45px" src="https://shawndsilva.com/public/assets/icons/nginx-logo.svg" />
-<img align="left" alt="Ubuntu" width="45px" src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" />
+<img align="left" alt="Ubuntu" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" />
 <br />
 <br />
 
