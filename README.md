@@ -42,6 +42,6 @@ Sometimes, i also write blog posts relating to anything new i've learnt or the p
 - [Bare-Metal ARM Cortex-M Firmware Development with GCC and Makefiles](https://shawndsilva.com/blog/embedded%20systems/Makefiles-for-Embedded-Systems.html)
 
 
-## Days of continous GitHub commits
+## Days of continous GitHub contributions
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shawn-dsilva)
