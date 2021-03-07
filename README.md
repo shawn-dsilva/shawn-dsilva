@@ -3,9 +3,6 @@
 
 I'm a Full Stack Web Developer, Designer and embedded systems enthusiast
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shawn-dsilva)
-
-
 - ⚙️ I’m currently working on [**Laravel React Chat App**](https://github.com/shawn-dsilva/laravel-react-realtime-chat)
 - 🍎 I’m currently learning **Laravel, PHP and PostgreSQL**
 - 📧 How to reach me: my **E-Mail**
@@ -45,3 +42,6 @@ Sometimes, i also write blog posts relating to anything new i've learnt or the p
 - [Bare-Metal ARM Cortex-M Firmware Development with GCC and Makefiles](https://shawndsilva.com/blog/embedded%20systems/Makefiles-for-Embedded-Systems.html)
 
 
+## Days of continous GitHub commits
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shawn-dsilva)
