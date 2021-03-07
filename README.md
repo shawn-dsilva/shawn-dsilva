@@ -40,3 +40,5 @@ Sometimes, i also write blog posts relating to anything new i've learnt or the p
 - [Hosting Multiple Full Stack Web Apps on a single VPS using Nginx and Docker](https://shawndsilva.com/blog/systems-administration-and-devops/Hosting-Multiple-Full-Stack-Web-Projects-On-One-VPS-Using-Nginx-And-Docker.html)
 - [MERN Sessions-Based Login and Registration App Part One : Node.JS, Express and MongDB REST API Backend](https://shawndsilva.com/blog/web-development/MERN-Sessions-Authentication-App-Part-1-Nodejs-and-Express-Backend.html)
 - [Bare-Metal ARM Cortex-M Firmware Development with GCC and Makefiles](https://shawndsilva.com/blog/embedded%20systems/Makefiles-for-Embedded-Systems.html)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shawn-dsilva)]
