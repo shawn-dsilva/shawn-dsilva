@@ -30,6 +30,7 @@ I'm a Full Stack Web Developer, Designer and embedded systems enthusiast
 
 I host my projects in Docker containers behind an NGINX reverse proxy on AWS, No Heroku involved 😜
 
+- 🔥 NEW! 🔥 [Laravel React RealTime Chat App](https://www.shawndsilva.com/projects/laravel-react-chat.html)
 - [PHP MVC Framework & Demo Web App](https://shawndsilva.com/projects/boomer-php-mvc.html)
 - [ListWala ToDo List & Project Management App](https://shawndsilva.com/projects/list-wala.html)
 - [MERN Login Registration Component & Demo Web App](https://shawndsilva.com/projects/mern-login-registration-app.html)
@@ -37,6 +38,8 @@ I host my projects in Docker containers behind an NGINX reverse proxy on AWS, No
 ## 📕 Latest Blog Posts
 
 Sometimes, i also write blog posts relating to anything new i've learnt or the projects that i have completed
+
+- [MERN Sessions-Based Login and Registration App Part Two React & Redux Frontend](https://shawndsilva.com/blog/web-development/MERN-Sessions-Authentication-App-Part-2-React-and-Redux-Frontend-copy.html)
 - [Hosting Multiple Full Stack Web Apps on a single VPS using Nginx and Docker](https://shawndsilva.com/blog/systems-administration-and-devops/Hosting-Multiple-Full-Stack-Web-Projects-On-One-VPS-Using-Nginx-And-Docker.html)
 - [MERN Sessions-Based Login and Registration App Part One : Node.JS, Express and MongDB REST API Backend](https://shawndsilva.com/blog/web-development/MERN-Sessions-Authentication-App-Part-1-Nodejs-and-Express-Backend.html)
 - [Bare-Metal ARM Cortex-M Firmware Development with GCC and Makefiles](https://shawndsilva.com/blog/embedded%20systems/Makefiles-for-Embedded-Systems.html)
