@@ -44,6 +44,10 @@ Sometimes, i also write blog posts relating to anything new i've learnt or the p
 - [MERN Sessions-Based Login and Registration App Part One : Node.JS, Express and MongDB REST API Backend](https://shawndsilva.com/blog/web-development/MERN-Sessions-Authentication-App-Part-1-Nodejs-and-Express-Backend.html)
 - [Bare-Metal ARM Cortex-M Firmware Development with GCC and Makefiles](https://shawndsilva.com/blog/embedded%20systems/Makefiles-for-Embedded-Systems.html)
 
+## My GitHub Stats
+
+[![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawn-dsilva&hide=issues,contribs&show_icons=true&count_private=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Days of continous GitHub contributions
 
